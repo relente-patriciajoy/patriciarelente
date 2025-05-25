@@ -57,10 +57,6 @@
 
 ####
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/relente-patriciajoy/relente-patriciajoy/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/relente-patriciajoy/relente-patriciajoy/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/relente-patriciajoy/relente-patriciajoy/output/snake.svg" />
-</picture>
+![snake gif](https://github.com/relente-patriciajoy/relente-patriciajoy/blob/output/github-snake-dark.svg)
 
 ####
