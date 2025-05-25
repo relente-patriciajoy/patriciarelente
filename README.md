@@ -53,8 +53,4 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/relente-patriciajoy/relente-patriciajoy/output/snake.svg" alt="Snake animation" />
-
 ####
